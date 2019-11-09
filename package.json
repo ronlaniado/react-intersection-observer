@@ -126,7 +126,7 @@
     "@babel/preset-typescript": "^7.1.0",
     "@storybook/addon-actions": "^5.2.6",
     "@storybook/addon-knobs": "^5.2.6",
-    "@storybook/components": "^5.0.0",
+    "@storybook/components": "^5.2.6",
     "@storybook/react": "^5.0.0",
     "@storybook/theming": "^5.0.11",
     "@testing-library/jest-dom": "^4.1.0",
